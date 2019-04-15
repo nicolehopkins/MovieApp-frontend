@@ -28,5 +28,9 @@ a:active {
 }
 
 .left {
-  text-justify: left;
+  float: left;
+}
+
+.right {
+  float: right;
 }
