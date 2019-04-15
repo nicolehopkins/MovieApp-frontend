@@ -4,7 +4,7 @@ import '../styling/Home.css'
 const Home = () => {
 
   return(
-    <div>
+    <div className='container'>
       <h1 className='heading'>Welcome to MovieApp!</h1>
     </div>
   )

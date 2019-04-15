@@ -1,4 +1,13 @@
 .heading {
   text-align: center;
   padding: 15%;
+  color: white;
+  margin: 0;
+}
+
+.container {
+  background-color: black;
+  padding: 0;
+  margin: 0 auto;
+  height: 1500px;
 }
