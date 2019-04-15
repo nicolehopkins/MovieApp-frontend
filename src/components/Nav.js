@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styling/Nav.css'
 
-const Nav = (props) => {
+const Nav = () => {
 
   return(
     <div className='navbar'>
